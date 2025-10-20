@@ -1,0 +1,1496 @@
+[
+  {
+    "name": "Afghanistan",
+    "dialCode": "+93",
+    "flagPng": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png",
+    "name_gr": "Αφγανιστάν"
+  },
+  {
+    "name": "Albania",
+    "dialCode": "+355",
+    "flagPng": "https://flagcdn.com/w320/al.png",
+    "name_gr": "Αλβανία"
+  },
+  {
+    "name": "Algeria",
+    "dialCode": "+213",
+    "flagPng": "https://flagcdn.com/w320/dz.png",
+    "name_gr": "Αλγερία"
+  },
+  {
+    "name": "American Samoa",
+    "dialCode": "+1684",
+    "flagPng": "https://flagcdn.com/w320/as.png",
+    "name_gr": "Αμερικανική Σαμόα"
+  },
+  {
+    "name": "Andorra",
+    "dialCode": "+376",
+    "flagPng": "https://flagcdn.com/w320/ad.png",
+    "name_gr": "Ανδόρα"
+  },
+  {
+    "name": "Angola",
+    "dialCode": "+244",
+    "flagPng": "https://flagcdn.com/w320/ao.png",
+    "name_gr": "Αγκόλα"
+  },
+  {
+    "name": "Anguilla",
+    "dialCode": "+1264",
+    "flagPng": "https://flagcdn.com/w320/ai.png",
+    "name_gr": "Ανγκουίλα"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "dialCode": "+1268",
+    "flagPng": "https://flagcdn.com/w320/ag.png",
+    "name_gr": "Αντίγκουα και Μπαρμπούντα"
+  },
+  {
+    "name": "Argentina",
+    "dialCode": "+54",
+    "flagPng": "https://flagcdn.com/w320/ar.png",
+    "name_gr": "Αργεντινή"
+  },
+  {
+    "name": "Armenia",
+    "dialCode": "+374",
+    "flagPng": "https://flagcdn.com/w320/am.png",
+    "name_gr": "Αρμενία"
+  },
+  {
+    "name": "Aruba",
+    "dialCode": "+297",
+    "flagPng": "https://flagcdn.com/w320/aw.png",
+    "name_gr": "Αρούμπα"
+  },
+  {
+    "name": "Australia",
+    "dialCode": "+61",
+    "flagPng": "https://flagcdn.com/w320/au.png",
+    "name_gr": "Αυστραλία"
+  },
+  {
+    "name": "Austria",
+    "dialCode": "+43",
+    "flagPng": "https://flagcdn.com/w320/at.png",
+    "name_gr": "Αυστρία"
+  },
+  {
+    "name": "Azerbaijan",
+    "dialCode": "+994",
+    "flagPng": "https://flagcdn.com/w320/az.png",
+    "name_gr": "Αζερμπαϊτζάν"
+  },
+  {
+    "name": "Bahamas",
+    "dialCode": "+1242",
+    "flagPng": "https://flagcdn.com/w320/bs.png",
+    "name_gr": "Μπαχάμες"
+  },
+  {
+    "name": "Bahrain",
+    "dialCode": "+973",
+    "flagPng": "https://flagcdn.com/w320/bh.png",
+    "name_gr": "Μπαχρέιν"
+  },
+  {
+    "name": "Bangladesh",
+    "dialCode": "+880",
+    "flagPng": "https://flagcdn.com/w320/bd.png",
+    "name_gr": "Μπαγκλαντές"
+  },
+  {
+    "name": "Barbados",
+    "dialCode": "+1246",
+    "flagPng": "https://flagcdn.com/w320/bb.png",
+    "name_gr": "Μπαρμπάντος"
+  },
+  {
+    "name": "Belarus",
+    "dialCode": "+375",
+    "flagPng": "https://flagcdn.com/w320/by.png",
+    "name_gr": "Λευκορωσία"
+  },
+  {
+    "name": "Belgium",
+    "dialCode": "+32",
+    "flagPng": "https://flagcdn.com/w320/be.png",
+    "name_gr": "Βέλγιο"
+  },
+  {
+    "name": "Belize",
+    "dialCode": "+501",
+    "flagPng": "https://flagcdn.com/w320/bz.png",
+    "name_gr": "Μπελίζ"
+  },
+  {
+    "name": "Benin",
+    "dialCode": "+229",
+    "flagPng": "https://flagcdn.com/w320/bj.png",
+    "name_gr": "Μπενίν"
+  },
+  {
+    "name": "Bermuda",
+    "dialCode": "+1441",
+    "flagPng": "https://flagcdn.com/w320/bm.png",
+    "name_gr": "Βερμούδες"
+  },
+  {
+    "name": "Bhutan",
+    "dialCode": "+975",
+    "flagPng": "https://flagcdn.com/w320/bt.png",
+    "name_gr": "Μπουτάν"
+  },
+  {
+    "name": "Bolivia",
+    "dialCode": "+591",
+    "flagPng": "https://flagcdn.com/w320/bo.png",
+    "name_gr": "Βολιβία"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "dialCode": "+387",
+    "flagPng": "https://flagcdn.com/w320/ba.png",
+    "name_gr": "Βοσνία και Ερζεγοβίνη"
+  },
+  {
+    "name": "Botswana",
+    "dialCode": "+267",
+    "flagPng": "https://flagcdn.com/w320/bw.png",
+    "name_gr": "Μποτσουάνα"
+  },
+  {
+    "name": "Bouvet Island",
+    "dialCode": "+47",
+    "flagPng": "https://flagcdn.com/w320/bv.png",
+    "name_gr": "Νήσος Μπουβέ"
+  },
+  {
+    "name": "Brazil",
+    "dialCode": "+55",
+    "flagPng": "https://flagcdn.com/w320/br.png",
+    "name_gr": "Βραζιλία"
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "dialCode": "+246",
+    "flagPng": "https://flagcdn.com/w320/io.png",
+    "name_gr": "Βρετανικό Έδαφος Ινδικού Ωκεανού"
+  },
+  {
+    "name": "British Virgin Islands",
+    "dialCode": "+1284",
+    "flagPng": "https://flagcdn.com/w320/vg.png",
+    "name_gr": "Βρετανικές Παρθένες Νήσοι"
+  },
+  {
+    "name": "Brunei",
+    "dialCode": "+673",
+    "flagPng": "https://flagcdn.com/w320/bn.png",
+    "name_gr": "Μπρουνέι"
+  },
+  {
+    "name": "Bulgaria",
+    "dialCode": "+359",
+    "flagPng": "https://flagcdn.com/w320/bg.png",
+    "name_gr": "Βουλγαρία"
+  },
+  {
+    "name": "Burkina Faso",
+    "dialCode": "+226",
+    "flagPng": "https://flagcdn.com/w320/bf.png",
+    "name_gr": "Μπουρκίνα Φάσο"
+  },
+  {
+    "name": "Burundi",
+    "dialCode": "+257",
+    "flagPng": "https://flagcdn.com/w320/bi.png",
+    "name_gr": "Μπουρούντι"
+  },
+  {
+    "name": "Cambodia",
+    "dialCode": "+855",
+    "flagPng": "https://flagcdn.com/w320/kh.png",
+    "name_gr": "Καμπότζη"
+  },
+  {
+    "name": "Cameroon",
+    "dialCode": "+237",
+    "flagPng": "https://flagcdn.com/w320/cm.png",
+    "name_gr": "Καμερούν"
+  },
+  {
+    "name": "Canada",
+    "dialCode": "+1",
+    "flagPng": "https://flagcdn.com/w320/ca.png",
+    "name_gr": "Καναδάς"
+  },
+  {
+    "name": "Cape Verde",
+    "dialCode": "+238",
+    "flagPng": "https://flagcdn.com/w320/cv.png",
+    "name_gr": "Πράσινο Ακρωτήριο"
+  },
+  {
+    "name": "Caribbean Netherlands",
+    "dialCode": "+599",
+    "flagPng": "https://flagcdn.com/w320/bq.png",
+    "name_gr": "Καραϊβική Ολλανδία"
+  },
+  {
+    "name": "Cayman Islands",
+    "dialCode": "+1345",
+    "flagPng": "https://flagcdn.com/w320/ky.png",
+    "name_gr": "Νήσοι Κέιμαν"
+  },
+  {
+    "name": "Central African Republic",
+    "dialCode": "+236",
+    "flagPng": "https://flagcdn.com/w320/cf.png",
+    "name_gr": "Κεντροαφρικανική Δημοκρατία"
+  },
+  {
+    "name": "Chad",
+    "dialCode": "+235",
+    "flagPng": "https://flagcdn.com/w320/td.png",
+    "name_gr": "Τσαντ"
+  },
+  {
+    "name": "Chile",
+    "dialCode": "+56",
+    "flagPng": "https://flagcdn.com/w320/cl.png",
+    "name_gr": "Χιλή"
+  },
+  {
+    "name": "China",
+    "dialCode": "+86",
+    "flagPng": "https://flagcdn.com/w320/cn.png",
+    "name_gr": "Κίνα"
+  },
+  {
+    "name": "Christmas Island",
+    "dialCode": "+61",
+    "flagPng": "https://flagcdn.com/w320/cx.png",
+    "name_gr": "Νήσος των Χριστουγέννων"
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "dialCode": "+61",
+    "flagPng": "https://flagcdn.com/w320/cc.png",
+    "name_gr": "Νήσοι Κόκος (Κίλινγκ)"
+  },
+  {
+    "name": "Colombia",
+    "dialCode": "+57",
+    "flagPng": "https://flagcdn.com/w320/co.png",
+    "name_gr": "Κολομβία"
+  },
+  {
+    "name": "Comoros",
+    "dialCode": "+269",
+    "flagPng": "https://flagcdn.com/w320/km.png",
+    "name_gr": "Κομόρες"
+  },
+  {
+    "name": "Cook Islands",
+    "dialCode": "+682",
+    "flagPng": "https://flagcdn.com/w320/ck.png",
+    "name_gr": "Νήσοι Κουκ"
+  },
+  {
+    "name": "Costa Rica",
+    "dialCode": "+506",
+    "flagPng": "https://flagcdn.com/w320/cr.png",
+    "name_gr": "Κόστα Ρίκα"
+  },
+  {
+    "name": "Croatia",
+    "dialCode": "+385",
+    "flagPng": "https://flagcdn.com/w320/hr.png",
+    "name_gr": "Κροατία"
+  },
+  {
+    "name": "Cuba",
+    "dialCode": "+53",
+    "flagPng": "https://flagcdn.com/w320/cu.png",
+    "name_gr": "Κούβα"
+  },
+  {
+    "name": "Curaçao",
+    "dialCode": "+599",
+    "flagPng": "https://flagcdn.com/w320/cw.png",
+    "name_gr": "Κουρασάο"
+  },
+  {
+    "name": "Cyprus",
+    "dialCode": "+357",
+    "flagPng": "https://flagcdn.com/w320/cy.png",
+    "name_gr": "Κύπρος"
+  },
+  {
+    "name": "Czechia",
+    "dialCode": "+420",
+    "flagPng": "https://flagcdn.com/w320/cz.png",
+    "name_gr": "Τσεχία"
+  },
+  {
+    "name": "Denmark",
+    "dialCode": "+45",
+    "flagPng": "https://flagcdn.com/w320/dk.png",
+    "name_gr": "Δανία"
+  },
+  {
+    "name": "Djibouti",
+    "dialCode": "+253",
+    "flagPng": "https://flagcdn.com/w320/dj.png",
+    "name_gr": "Τζιμπουτί"
+  },
+  {
+    "name": "Dominica",
+    "dialCode": "+1767",
+    "flagPng": "https://flagcdn.com/w320/dm.png",
+    "name_gr": "Δομινίκα"
+  },
+  {
+    "name": "Dominican Republic",
+    "dialCode": "+1809",
+    "flagPng": "https://flagcdn.com/w320/do.png",
+    "name_gr": "Δομινικανή Δημοκρατία"
+  },
+  {
+    "name": "DR Congo",
+    "dialCode": "+243",
+    "flagPng": "https://flagcdn.com/w320/cd.png",
+    "name_gr": "Λαϊκή Δημοκρατία του Κονγκό"
+  },
+  {
+    "name": "Ecuador",
+    "dialCode": "+593",
+    "flagPng": "https://flagcdn.com/w320/ec.png",
+    "name_gr": "Ισημερινός"
+  },
+  {
+    "name": "Egypt",
+    "dialCode": "+20",
+    "flagPng": "https://flagcdn.com/w320/eg.png",
+    "name_gr": "Αίγυπτος"
+  },
+  {
+    "name": "El Salvador",
+    "dialCode": "+503",
+    "flagPng": "https://flagcdn.com/w320/sv.png",
+    "name_gr": "Ελ Σαλβαδόρ"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "dialCode": "+240",
+    "flagPng": "https://flagcdn.com/w320/gq.png",
+    "name_gr": "Ισημερινή Γουινέα"
+  },
+  {
+    "name": "Eritrea",
+    "dialCode": "+291",
+    "flagPng": "https://flagcdn.com/w320/er.png",
+    "name_gr": "Ερυθραία"
+  },
+  {
+    "name": "Estonia",
+    "dialCode": "+372",
+    "flagPng": "https://flagcdn.com/w320/ee.png",
+    "name_gr": "Εσθονία"
+  },
+  {
+    "name": "Eswatini",
+    "dialCode": "+268",
+    "flagPng": "https://flagcdn.com/w320/sz.png",
+    "name_gr": "Εσουατίνι"
+  },
+  {
+    "name": "Ethiopia",
+    "dialCode": "+251",
+    "flagPng": "https://flagcdn.com/w320/et.png",
+    "name_gr": "Αιθιοπία"
+  },
+  {
+    "name": "Falkland Islands",
+    "dialCode": "+500",
+    "flagPng": "https://flagcdn.com/w320/fk.png",
+    "name_gr": "Νήσοι Φώκλαντ"
+  },
+  {
+    "name": "Faroe Islands",
+    "dialCode": "+298",
+    "flagPng": "https://flagcdn.com/w320/fo.png",
+    "name_gr": "Νήσοι Φερόες"
+  },
+  {
+    "name": "Fiji",
+    "dialCode": "+679",
+    "flagPng": "https://flagcdn.com/w320/fj.png",
+    "name_gr": "Φίτζι"
+  },
+  {
+    "name": "Finland",
+    "dialCode": "+358",
+    "flagPng": "https://flagcdn.com/w320/fi.png",
+    "name_gr": "Φινλανδία"
+  },
+  {
+    "name": "France",
+    "dialCode": "+33",
+    "flagPng": "https://flagcdn.com/w320/fr.png",
+    "name_gr": "Γαλλία"
+  },
+  {
+    "name": "French Guiana",
+    "dialCode": "+594",
+    "flagPng": "https://flagcdn.com/w320/gf.png",
+    "name_gr": "Γαλλική Γουιάνα"
+  },
+  {
+    "name": "French Polynesia",
+    "dialCode": "+689",
+    "flagPng": "https://flagcdn.com/w320/pf.png",
+    "name_gr": "Γαλλική Πολυνησία"
+  },
+  {
+    "name": "French Southern and Antarctic Lands",
+    "dialCode": "+262",
+    "flagPng": "https://flagcdn.com/w320/tf.png",
+    "name_gr": "Γαλλικές Νότιες και Ανταρκτικές Χώρες"
+  },
+  {
+    "name": "Gabon",
+    "dialCode": "+241",
+    "flagPng": "https://flagcdn.com/w320/ga.png",
+    "name_gr": "Γκαμπόν"
+  },
+  {
+    "name": "Gambia",
+    "dialCode": "+220",
+    "flagPng": "https://flagcdn.com/w320/gm.png",
+    "name_gr": "Γκάμπια"
+  },
+  {
+    "name": "Georgia",
+    "dialCode": "+995",
+    "flagPng": "https://flagcdn.com/w320/ge.png",
+    "name_gr": "Γεωργία"
+  },
+  {
+    "name": "Germany",
+    "dialCode": "+49",
+    "flagPng": "https://flagcdn.com/w320/de.png",
+    "name_gr": "Γερμανία"
+  },
+  {
+    "name": "Ghana",
+    "dialCode": "+233",
+    "flagPng": "https://flagcdn.com/w320/gh.png",
+    "name_gr": "Γκάνα"
+  },
+  {
+    "name": "Gibraltar",
+    "dialCode": "+350",
+    "flagPng": "https://flagcdn.com/w320/gi.png",
+    "name_gr": "Γιβραλτάρ"
+  },
+  {
+    "name": "Greece",
+    "dialCode": "+30",
+    "flagPng": "https://flagcdn.com/w320/gr.png",
+    "name_gr": "Ελλάδα"
+  },
+  {
+    "name": "Greenland",
+    "dialCode": "+299",
+    "flagPng": "https://flagcdn.com/w320/gl.png",
+    "name_gr": "Γροιλανδία"
+  },
+  {
+    "name": "Grenada",
+    "dialCode": "+1473",
+    "flagPng": "https://flagcdn.com/w320/gd.png",
+    "name_gr": "Γρενάδα"
+  },
+  {
+    "name": "Guadeloupe",
+    "dialCode": "+590",
+    "flagPng": "https://flagcdn.com/w320/gp.png",
+    "name_gr": "Γουαδελούπη"
+  },
+  {
+    "name": "Guam",
+    "dialCode": "+1671",
+    "flagPng": "https://flagcdn.com/w320/gu.png",
+    "name_gr": "Γκουάμ"
+  },
+  {
+    "name": "Guatemala",
+    "dialCode": "+502",
+    "flagPng": "https://flagcdn.com/w320/gt.png",
+    "name_gr": "Γουατεμάλα"
+  },
+  {
+    "name": "Guernsey",
+    "dialCode": "+44",
+    "flagPng": "https://flagcdn.com/w320/gg.png",
+    "name_gr": "Γκέρνζι"
+  },
+  {
+    "name": "Guinea",
+    "dialCode": "+224",
+    "flagPng": "https://flagcdn.com/w320/gn.png",
+    "name_gr": "Γουινέα"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "dialCode": "+245",
+    "flagPng": "https://flagcdn.com/w320/gw.png",
+    "name_gr": "Γουινέα-Μπισσάου"
+  },
+  {
+    "name": "Guyana",
+    "dialCode": "+592",
+    "flagPng": "https://flagcdn.com/w320/gy.png",
+    "name_gr": "Γουιάνα"
+  },
+  {
+    "name": "Haiti",
+    "dialCode": "+509",
+    "flagPng": "https://flagcdn.com/w320/ht.png",
+    "name_gr": "Αϊτή"
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "dialCode": "",
+    "flagPng": "https://flagcdn.com/w320/hm.png",
+    "name_gr": "Νήσος Χερντ και Νήσοι Μακντόναλντ"
+  },
+  {
+    "name": "Honduras",
+    "dialCode": "+504",
+    "flagPng": "https://flagcdn.com/w320/hn.png",
+    "name_gr": "Ονδούρα"
+  },
+  {
+    "name": "Hong Kong",
+    "dialCode": "+852",
+    "flagPng": "https://flagcdn.com/w320/hk.png",
+    "name_gr": "Χονγκ Κονγκ"
+  },
+  {
+    "name": "Hungary",
+    "dialCode": "+36",
+    "flagPng": "https://flagcdn.com/w320/hu.png",
+    "name_gr": "Ουγγαρία"
+  },
+  {
+    "name": "Iceland",
+    "dialCode": "+354",
+    "flagPng": "https://flagcdn.com/w320/is.png",
+    "name_gr": "Ισλανδία"
+  },
+  {
+    "name": "India",
+    "dialCode": "+91",
+    "flagPng": "https://flagcdn.com/w320/in.png",
+    "name_gr": "Ινδία"
+  },
+  {
+    "name": "Indonesia",
+    "dialCode": "+62",
+    "flagPng": "https://flagcdn.com/w320/id.png",
+    "name_gr": "Ινδονησία"
+  },
+  {
+    "name": "Iran",
+    "dialCode": "+98",
+    "flagPng": "https://flagcdn.com/w320/ir.png",
+    "name_gr": "Ιράν"
+  },
+  {
+    "name": "Iraq",
+    "dialCode": "+964",
+    "flagPng": "https://flagcdn.com/w320/iq.png",
+    "name_gr": "Ιράκ"
+  },
+  {
+    "name": "Ireland",
+    "dialCode": "+353",
+    "flagPng": "https://flagcdn.com/w320/ie.png",
+    "name_gr": "Ιρλανδία"
+  },
+  {
+    "name": "Isle of Man",
+    "dialCode": "+44",
+    "flagPng": "https://flagcdn.com/w320/im.png",
+    "name_gr": "Νήσος Μαν"
+  },
+  {
+    "name": "Israel",
+    "dialCode": "+972",
+    "flagPng": "https://flagcdn.com/w320/il.png",
+    "name_gr": "Ισραήλ"
+  },
+  {
+    "name": "Italy",
+    "dialCode": "+39",
+    "flagPng": "https://flagcdn.com/w320/it.png",
+    "name_gr": "Ιταλία"
+  },
+  {
+    "name": "Ivory Coast",
+    "dialCode": "+225",
+    "flagPng": "https://flagcdn.com/w320/ci.png",
+    "name_gr": "Ακτή Ελεφαντοστού"
+  },
+  {
+    "name": "Jamaica",
+    "dialCode": "+1876",
+    "flagPng": "https://flagcdn.com/w320/jm.png",
+    "name_gr": "Τζαμάικα"
+  },
+  {
+    "name": "Japan",
+    "dialCode": "+81",
+    "flagPng": "https://flagcdn.com/w320/jp.png",
+    "name_gr": "Ιαπωνία"
+  },
+  {
+    "name": "Jersey",
+    "dialCode": "+44",
+    "flagPng": "https://flagcdn.com/w320/je.png",
+    "name_gr": "Τζέρσεϊ"
+  },
+  {
+    "name": "Jordan",
+    "dialCode": "+962",
+    "flagPng": "https://flagcdn.com/w320/jo.png",
+    "name_gr": "Ιορδανία"
+  },
+  {
+    "name": "Kazakhstan",
+    "dialCode": "+76",
+    "flagPng": "https://flagcdn.com/w320/kz.png",
+    "name_gr": "Καζακστάν"
+  },
+  {
+    "name": "Kenya",
+    "dialCode": "+254",
+    "flagPng": "https://flagcdn.com/w320/ke.png",
+    "name_gr": "Κένυα"
+  },
+  {
+    "name": "Kiribati",
+    "dialCode": "+686",
+    "flagPng": "https://flagcdn.com/w320/ki.png",
+    "name_gr": "Κιριμπάτι"
+  },
+  {
+    "name": "Kosovo",
+    "dialCode": "+383",
+    "flagPng": "https://flagcdn.com/w320/xk.png",
+    "name_gr": "Κόσοβο"
+  },
+  {
+    "name": "Kuwait",
+    "dialCode": "+965",
+    "flagPng": "https://flagcdn.com/w320/kw.png",
+    "name_gr": "Κουβέιτ"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "dialCode": "+996",
+    "flagPng": "https://flagcdn.com/w320/kg.png",
+    "name_gr": "Κιργιζία"
+  },
+  {
+    "name": "Laos",
+    "dialCode": "+856",
+    "flagPng": "https://flagcdn.com/w320/la.png",
+    "name_gr": "Λάος"
+  },
+  {
+    "name": "Latvia",
+    "dialCode": "+371",
+    "flagPng": "https://flagcdn.com/w320/lv.png",
+    "name_gr": "Λετονία"
+  },
+  {
+    "name": "Lebanon",
+    "dialCode": "+961",
+    "flagPng": "https://flagcdn.com/w320/lb.png",
+    "name_gr": "Λίβανος"
+  },
+  {
+    "name": "Lesotho",
+    "dialCode": "+266",
+    "flagPng": "https://flagcdn.com/w320/ls.png",
+    "name_gr": "Λεσότο"
+  },
+  {
+    "name": "Liberia",
+    "dialCode": "+231",
+    "flagPng": "https://flagcdn.com/w320/lr.png",
+    "name_gr": "Λιβερία"
+  },
+  {
+    "name": "Libya",
+    "dialCode": "+218",
+    "flagPng": "https://flagcdn.com/w320/ly.png",
+    "name_gr": "Λιβύη"
+  },
+  {
+    "name": "Liechtenstein",
+    "dialCode": "+423",
+    "flagPng": "https://flagcdn.com/w320/li.png",
+    "name_gr": "Λιχτενστάιν"
+  },
+  {
+    "name": "Lithuania",
+    "dialCode": "+370",
+    "flagPng": "https://flagcdn.com/w320/lt.png",
+    "name_gr": "Λιθουανία"
+  },
+  {
+    "name": "Luxembourg",
+    "dialCode": "+352",
+    "flagPng": "https://flagcdn.com/w320/lu.png",
+    "name_gr": "Λουξεμβούργο"
+  },
+  {
+    "name": "Macau",
+    "dialCode": "+853",
+    "flagPng": "https://flagcdn.com/w320/mo.png",
+    "name_gr": "Μακάο"
+  },
+  {
+    "name": "Madagascar",
+    "dialCode": "+261",
+    "flagPng": "https://flagcdn.com/w320/mg.png",
+    "name_gr": "Μαδαγασκάρη"
+  },
+  {
+    "name": "Malawi",
+    "dialCode": "+265",
+    "flagPng": "https://flagcdn.com/w320/mw.png",
+    "name_gr": "Μαλάουι"
+  },
+  {
+    "name": "Malaysia",
+    "dialCode": "+60",
+    "flagPng": "https://flagcdn.com/w320/my.png",
+    "name_gr": "Μαλαισία"
+  },
+  {
+    "name": "Maldives",
+    "dialCode": "+960",
+    "flagPng": "https://flagcdn.com/w320/mv.png",
+    "name_gr": "Μαλδίβες"
+  },
+  {
+    "name": "Mali",
+    "dialCode": "+223",
+    "flagPng": "https://flagcdn.com/w320/ml.png",
+    "name_gr": "Μάλι"
+  },
+  {
+    "name": "Malta",
+    "dialCode": "+356",
+    "flagPng": "https://flagcdn.com/w320/mt.png",
+    "name_gr": "Μάλτα"
+  },
+  {
+    "name": "Marshall Islands",
+    "dialCode": "+692",
+    "flagPng": "https://flagcdn.com/w320/mh.png",
+    "name_gr": "Νήσοι Μάρσαλ"
+  },
+  {
+    "name": "Martinique",
+    "dialCode": "+596",
+    "flagPng": "https://flagcdn.com/w320/mq.png",
+    "name_gr": "Μαρτινίκα"
+  },
+  {
+    "name": "Mauritania",
+    "dialCode": "+222",
+    "flagPng": "https://flagcdn.com/w320/mr.png",
+    "name_gr": "Μαυριτανία"
+  },
+  {
+    "name": "Mauritius",
+    "dialCode": "+230",
+    "flagPng": "https://flagcdn.com/w320/mu.png",
+    "name_gr": "Μαυρίκιος"
+  },
+  {
+    "name": "Mayotte",
+    "dialCode": "+262",
+    "flagPng": "https://flagcdn.com/w320/yt.png",
+    "name_gr": "Μαγιότ"
+  },
+  {
+    "name": "Mexico",
+    "dialCode": "+52",
+    "flagPng": "https://flagcdn.com/w320/mx.png",
+    "name_gr": "Μεξικό"
+  },
+  {
+    "name": "Micronesia",
+    "dialCode": "+691",
+    "flagPng": "https://flagcdn.com/w320/fm.png",
+    "name_gr": "Μικρονησία"
+  },
+  {
+    "name": "Moldova",
+    "dialCode": "+373",
+    "flagPng": "https://flagcdn.com/w320/md.png",
+    "name_gr": "Μολδαβία"
+  },
+  {
+    "name": "Monaco",
+    "dialCode": "+377",
+    "flagPng": "https://flagcdn.com/w320/mc.png",
+    "name_gr": "Μονακό"
+  },
+  {
+    "name": "Mongolia",
+    "dialCode": "+976",
+    "flagPng": "https://flagcdn.com/w320/mn.png",
+    "name_gr": "Μογγολία"
+  },
+  {
+    "name": "Montenegro",
+    "dialCode": "+382",
+    "flagPng": "https://flagcdn.com/w320/me.png",
+    "name_gr": "Μαυροβούνιο"
+  },
+  {
+    "name": "Montserrat",
+    "dialCode": "+1664",
+    "flagPng": "https://flagcdn.com/w320/ms.png",
+    "name_gr": "Μοντσεράτ"
+  },
+  {
+    "name": "Morocco",
+    "dialCode": "+212",
+    "flagPng": "https://flagcdn.com/w320/ma.png",
+    "name_gr": "Μαρόκο"
+  },
+  {
+    "name": "Mozambique",
+    "dialCode": "+258",
+    "flagPng": "https://flagcdn.com/w320/mz.png",
+    "name_gr": "Μοζαμβίκη"
+  },
+  {
+    "name": "Myanmar",
+    "dialCode": "+95",
+    "flagPng": "https://flagcdn.com/w320/mm.png",
+    "name_gr": "Μιανμάρ"
+  },
+  {
+    "name": "Namibia",
+    "dialCode": "+264",
+    "flagPng": "https://flagcdn.com/w320/na.png",
+    "name_gr": "Ναμίμπια"
+  },
+  {
+    "name": "Nauru",
+    "dialCode": "+674",
+    "flagPng": "https://flagcdn.com/w320/nr.png",
+    "name_gr": "Ναουρού"
+  },
+  {
+    "name": "Nepal",
+    "dialCode": "+977",
+    "flagPng": "https://flagcdn.com/w320/np.png",
+    "name_gr": "Νεπάλ"
+  },
+  {
+    "name": "Netherlands",
+    "dialCode": "+31",
+    "flagPng": "https://flagcdn.com/w320/nl.png",
+    "name_gr": "Ολλανδία"
+  },
+  {
+    "name": "New Caledonia",
+    "dialCode": "+687",
+    "flagPng": "https://flagcdn.com/w320/nc.png",
+    "name_gr": "Νέα Καληδονία"
+  },
+  {
+    "name": "New Zealand",
+    "dialCode": "+64",
+    "flagPng": "https://flagcdn.com/w320/nz.png",
+    "name_gr": "Νέα Ζηλανδία"
+  },
+  {
+    "name": "Nicaragua",
+    "dialCode": "+505",
+    "flagPng": "https://flagcdn.com/w320/ni.png",
+    "name_gr": "Νικαράγουα"
+  },
+  {
+    "name": "Niger",
+    "dialCode": "+227",
+    "flagPng": "https://flagcdn.com/w320/ne.png",
+    "name_gr": "Νίγηρας"
+  },
+  {
+    "name": "Nigeria",
+    "dialCode": "+234",
+    "flagPng": "https://flagcdn.com/w320/ng.png",
+    "name_gr": "Νιγηρία"
+  },
+  {
+    "name": "Niue",
+    "dialCode": "+683",
+    "flagPng": "https://flagcdn.com/w320/nu.png",
+    "name_gr": "Νιούε"
+  },
+  {
+    "name": "Norfolk Island",
+    "dialCode": "+672",
+    "flagPng": "https://flagcdn.com/w320/nf.png",
+    "name_gr": "Νήσος Νόρφολκ"
+  },
+  {
+    "name": "North Korea",
+    "dialCode": "+850",
+    "flagPng": "https://flagcdn.com/w320/kp.png",
+    "name_gr": "Βόρεια Κορέα"
+  },
+  {
+    "name": "North Macedonia",
+    "dialCode": "+389",
+    "flagPng": "https://flagcdn.com/w320/mk.png",
+    "name_gr": "Βόρεια Μακεδονία"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "dialCode": "+1670",
+    "flagPng": "https://flagcdn.com/w320/mp.png",
+    "name_gr": "Βόρειες Μαριάνες Νήσοι"
+  },
+  {
+    "name": "Norway",
+    "dialCode": "+47",
+    "flagPng": "https://flagcdn.com/w320/no.png",
+    "name_gr": "Νορβηγία"
+  },
+  {
+    "name": "Oman",
+    "dialCode": "+968",
+    "flagPng": "https://flagcdn.com/w320/om.png",
+    "name_gr": "Ομάν"
+  },
+  {
+    "name": "Pakistan",
+    "dialCode": "+92",
+    "flagPng": "https://flagcdn.com/w320/pk.png",
+    "name_gr": "Πακιστάν"
+  },
+  {
+    "name": "Palau",
+    "dialCode": "+680",
+    "flagPng": "https://flagcdn.com/w320/pw.png",
+    "name_gr": "Παλάου"
+  },
+  {
+    "name": "Palestine",
+    "dialCode": "+970",
+    "flagPng": "https://flagcdn.com/w320/ps.png",
+    "name_gr": "Παλαιστίνη"
+  },
+  {
+    "name": "Panama",
+    "dialCode": "+507",
+    "flagPng": "https://flagcdn.com/w320/pa.png",
+    "name_gr": "Παναμάς"
+  },
+  {
+    "name": "Papua New Guinea",
+    "dialCode": "+675",
+    "flagPng": "https://flagcdn.com/w320/pg.png",
+    "name_gr": "Παπούα Νέα Γουινέα"
+  },
+  {
+    "name": "Paraguay",
+    "dialCode": "+595",
+    "flagPng": "https://flagcdn.com/w320/py.png",
+    "name_gr": "Παραγουάη"
+  },
+  {
+    "name": "Peru",
+    "dialCode": "+51",
+    "flagPng": "https://flagcdn.com/w320/pe.png",
+    "name_gr": "Περού"
+  },
+  {
+    "name": "Philippines",
+    "dialCode": "+63",
+    "flagPng": "https://flagcdn.com/w320/ph.png",
+    "name_gr": "Φιλιππίνες"
+  },
+  {
+    "name": "Pitcairn Islands",
+    "dialCode": "+64",
+    "flagPng": "https://flagcdn.com/w320/pn.png",
+    "name_gr": "Νήσοι Πίτκερν"
+  },
+  {
+    "name": "Poland",
+    "dialCode": "+48",
+    "flagPng": "https://flagcdn.com/w320/pl.png",
+    "name_gr": "Πολωνία"
+  },
+  {
+    "name": "Portugal",
+    "dialCode": "+351",
+    "flagPng": "https://flagcdn.com/w320/pt.png",
+    "name_gr": "Πορτογαλία"
+  },
+  {
+    "name": "Puerto Rico",
+    "dialCode": "+1787",
+    "flagPng": "https://flagcdn.com/w320/pr.png",
+    "name_gr": "Πουέρτο Ρίκο"
+  },
+  {
+    "name": "Qatar",
+    "dialCode": "+974",
+    "flagPng": "https://flagcdn.com/w320/qa.png",
+    "name_gr": "Κατάρ"
+  },
+  {
+    "name": "Republic of the Congo",
+    "dialCode": "+242",
+    "flagPng": "https://flagcdn.com/w320/cg.png",
+    "name_gr": "Δημοκρατία του Κονγκό"
+  },
+  {
+    "name": "Romania",
+    "dialCode": "+40",
+    "flagPng": "https://flagcdn.com/w320/ro.png",
+    "name_gr": "Ρουμανία"
+  },
+  {
+    "name": "Russia",
+    "dialCode": "+73",
+    "flagPng": "https://flagcdn.com/w320/ru.png",
+    "name_gr": "Ρωσία"
+  },
+  {
+    "name": "Rwanda",
+    "dialCode": "+250",
+    "flagPng": "https://flagcdn.com/w320/rw.png",
+    "name_gr": "Ρουάντα"
+  },
+  {
+    "name": "Réunion",
+    "dialCode": "+262",
+    "flagPng": "https://flagcdn.com/w320/re.png",
+    "name_gr": "Ρεϊνιόν"
+  },
+  {
+    "name": "Saint Barthélemy",
+    "dialCode": "+590",
+    "flagPng": "https://flagcdn.com/w320/bl.png",
+    "name_gr": "Άγιος Βαρθολομαίος"
+  },
+  {
+    "name": "Saint Helena Ascension and Tristan da Cunha",
+    "dialCode": "+290",
+    "flagPng": "https://flagcdn.com/w320/sh.png",
+    "name_gr": "Αγία Ελένη, Ασενσιόν και Τριστάν ντα Κούνια"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "dialCode": "+1869",
+    "flagPng": "https://flagcdn.com/w320/kn.png",
+    "name_gr": "Άγιος Χριστόφορος και Νέβις"
+  },
+  {
+    "name": "Saint Lucia",
+    "dialCode": "+1758",
+    "flagPng": "https://flagcdn.com/w320/lc.png",
+    "name_gr": "Αγία Λουκία"
+  },
+  {
+    "name": "Saint Martin",
+    "dialCode": "+590",
+    "flagPng": "https://flagcdn.com/w320/mf.png",
+    "name_gr": "Άγιος Μαρτίνος"
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "dialCode": "+508",
+    "flagPng": "https://flagcdn.com/w320/pm.png",
+    "name_gr": "Σαιν Πιερ και Μικελόν"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "dialCode": "+1784",
+    "flagPng": "https://flagcdn.com/w320/vc.png",
+    "name_gr": "Άγιος Βικέντιος και Γρεναδίνες"
+  },
+  {
+    "name": "Samoa",
+    "dialCode": "+685",
+    "flagPng": "https://flagcdn.com/w320/ws.png",
+    "name_gr": "Σαμόα"
+  },
+  {
+    "name": "San Marino",
+    "dialCode": "+378",
+    "flagPng": "https://flagcdn.com/w320/sm.png",
+    "name_gr": "Άγιος Μαρίνος"
+  },
+  {
+    "name": "Saudi Arabia",
+    "dialCode": "+966",
+    "flagPng": "https://flagcdn.com/w320/sa.png",
+    "name_gr": "Σαουδική Αραβία"
+  },
+  {
+    "name": "Senegal",
+    "dialCode": "+221",
+    "flagPng": "https://flagcdn.com/w320/sn.png",
+    "name_gr": "Σενεγάλη"
+  },
+  {
+    "name": "Serbia",
+    "dialCode": "+381",
+    "flagPng": "https://flagcdn.com/w320/rs.png",
+    "name_gr": "Σερβία"
+  },
+  {
+    "name": "Seychelles",
+    "dialCode": "+248",
+    "flagPng": "https://flagcdn.com/w320/sc.png",
+    "name_gr": "Σεϋχέλλες"
+  },
+  {
+    "name": "Sierra Leone",
+    "dialCode": "+232",
+    "flagPng": "https://flagcdn.com/w320/sl.png",
+    "name_gr": "Σιέρα Λεόνε"
+  },
+  {
+    "name": "Singapore",
+    "dialCode": "+65",
+    "flagPng": "https://flagcdn.com/w320/sg.png",
+    "name_gr": "Σιγκαπούρη"
+  },
+  {
+    "name": "Sint Maarten",
+    "dialCode": "+1721",
+    "flagPng": "https://flagcdn.com/w320/sx.png",
+    "name_gr": "Σιντ Μάρτεν"
+  },
+  {
+    "name": "Slovakia",
+    "dialCode": "+421",
+    "flagPng": "https://flagcdn.com/w320/sk.png",
+    "name_gr": "Σλοβακία"
+  },
+  {
+    "name": "Slovenia",
+    "dialCode": "+386",
+    "flagPng": "https://flagcdn.com/w320/si.png",
+    "name_gr": "Σλοβενία"
+  },
+  {
+    "name": "Solomon Islands",
+    "dialCode": "+677",
+    "flagPng": "https://flagcdn.com/w320/sb.png",
+    "name_gr": "Νήσοι Σολομώντος"
+  },
+  {
+    "name": "Somalia",
+    "dialCode": "+252",
+    "flagPng": "https://flagcdn.com/w320/so.png",
+    "name_gr": "Σομαλία"
+  },
+  {
+    "name": "South Africa",
+    "dialCode": "+27",
+    "flagPng": "https://flagcdn.com/w320/za.png",
+    "name_gr": "Νότια Αφρική"
+  },
+  {
+    "name": "South Georgia",
+    "dialCode": "+500",
+    "flagPng": "https://flagcdn.com/w320/gs.png",
+    "name_gr": "Νότια Γεωργία"
+  },
+  {
+    "name": "South Korea",
+    "dialCode": "+82",
+    "flagPng": "https://flagcdn.com/w320/kr.png",
+    "name_gr": "Νότια Κορέα"
+  },
+  {
+    "name": "South Sudan",
+    "dialCode": "+211",
+    "flagPng": "https://flagcdn.com/w320/ss.png",
+    "name_gr": "Νότιο Σουδάν"
+  },
+  {
+    "name": "Spain",
+    "dialCode": "+34",
+    "flagPng": "https://flagcdn.com/w320/es.png",
+    "name_gr": "Ισπανία"
+  },
+  {
+    "name": "Sri Lanka",
+    "dialCode": "+94",
+    "flagPng": "https://flagcdn.com/w320/lk.png",
+    "name_gr": "Σρι Λάνκα"
+  },
+  {
+    "name": "Sudan",
+    "dialCode": "+249",
+    "flagPng": "https://flagcdn.com/w320/sd.png",
+    "name_gr": "Σουδάν"
+  },
+  {
+    "name": "Suriname",
+    "dialCode": "+597",
+    "flagPng": "https://flagcdn.com/w320/sr.png",
+    "name_gr": "Σουρινάμ"
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "dialCode": "+4779",
+    "flagPng": "https://flagcdn.com/w320/sj.png",
+    "name_gr": "Σβάλμπαρντ και Γιαν Μαγιέν"
+  },
+  {
+    "name": "Sweden",
+    "dialCode": "+46",
+    "flagPng": "https://flagcdn.com/w320/se.png",
+    "name_gr": "Σουηδία"
+  },
+  {
+    "name": "Switzerland",
+    "dialCode": "+41",
+    "flagPng": "https://flagcdn.com/w320/ch.png",
+    "name_gr": "Ελβετία"
+  },
+  {
+    "name": "Syria",
+    "dialCode": "+963",
+    "flagPng": "https://flagcdn.com/w320/sy.png",
+    "name_gr": "Συρία"
+  },
+  {
+    "name": "São Tomé and Príncipe",
+    "dialCode": "+239",
+    "flagPng": "https://flagcdn.com/w320/st.png",
+    "name_gr": "Σάο Τομέ και Πρίνσιπε"
+  },
+  {
+    "name": "Taiwan",
+    "dialCode": "+886",
+    "flagPng": "https://flagcdn.com/w320/tw.png",
+    "name_gr": "Ταϊβάν"
+  },
+  {
+    "name": "Tajikistan",
+    "dialCode": "+992",
+    "flagPng": "https://flagcdn.com/w320/tj.png",
+    "name_gr": "Τατζικιστάν"
+  },
+  {
+    "name": "Tanzania",
+    "dialCode": "+255",
+    "flagPng": "https://flagcdn.com/w320/tz.png",
+    "name_gr": "Τανζανία"
+  },
+  {
+    "name": "Thailand",
+    "dialCode": "+66",
+    "flagPng": "https://flagcdn.com/w320/th.png",
+    "name_gr": "Ταϊλάνδη"
+  },
+  {
+    "name": "Timor-Leste",
+    "dialCode": "+670",
+    "flagPng": "https://flagcdn.com/w320/tl.png",
+    "name_gr": "Ανατολικό Τιμόρ"
+  },
+  {
+    "name": "Togo",
+    "dialCode": "+228",
+    "flagPng": "https://flagcdn.com/w320/tg.png",
+    "name_gr": "Τόγκο"
+  },
+  {
+    "name": "Tokelau",
+    "dialCode": "+690",
+    "flagPng": "https://flagcdn.com/w320/tk.png",
+    "name_gr": "Τοκελάου"
+  },
+  {
+    "name": "Tonga",
+    "dialCode": "+676",
+    "flagPng": "https://flagcdn.com/w320/to.png",
+    "name_gr": "Τόνγκα"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "dialCode": "+1868",
+    "flagPng": "https://flagcdn.com/w320/tt.png",
+    "name_gr": "Τρινιντάντ και Τομπάγκο"
+  },
+  {
+    "name": "Tunisia",
+    "dialCode": "+216",
+    "flagPng": "https://flagcdn.com/w320/tn.png",
+    "name_gr": "Τυνησία"
+  },
+  {
+    "name": "Turkey",
+    "dialCode": "+90",
+    "flagPng": "https://flagcdn.com/w320/tr.png",
+    "name_gr": "Τουρκία"
+  },
+  {
+    "name": "Turkmenistan",
+    "dialCode": "+993",
+    "flagPng": "https://flagcdn.com/w320/tm.png",
+    "name_gr": "Τουρκμενιστάν"
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "dialCode": "+1649",
+    "flagPng": "https://flagcdn.com/w320/tc.png",
+    "name_gr": "Νήσοι Τερκς και Κέικος"
+  },
+  {
+    "name": "Tuvalu",
+    "dialCode": "+688",
+    "flagPng": "https://flagcdn.com/w320/tv.png",
+    "name_gr": "Τουβαλού"
+  },
+  {
+    "name": "Uganda",
+    "dialCode": "+256",
+    "flagPng": "https://flagcdn.com/w320/ug.png",
+    "name_gr": "Ουγκάντα"
+  },
+  {
+    "name": "Ukraine",
+    "dialCode": "+380",
+    "flagPng": "https://flagcdn.com/w320/ua.png",
+    "name_gr": "Ουκρανία"
+  },
+  {
+    "name": "United Arab Emirates",
+    "dialCode": "+971",
+    "flagPng": "https://flagcdn.com/w320/ae.png",
+    "name_gr": "Ηνωμένα Αραβικά Εμιράτα"
+  },
+  {
+    "name": "United Kingdom",
+    "dialCode": "+44",
+    "flagPng": "https://flagcdn.com/w320/gb.png",
+    "name_gr": "Ηνωμένο Βασίλειο"
+  },
+  {
+    "name": "United States",
+    "dialCode": "+1",
+    "flagPng": "https://flagcdn.com/w320/us.png",
+    "name_gr": "Ηνωμένες Πολιτείες"
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "dialCode": "+268",
+    "flagPng": "https://flagcdn.com/w320/um.png",
+    "name_gr": "Μικρά Απομονωμένα Νησιά των ΗΠΑ"
+  },
+  {
+    "name": "United States Virgin Islands",
+    "dialCode": "+1340",
+    "flagPng": "https://flagcdn.com/w320/vi.png",
+    "name_gr": "Παρθένοι Νήσοι των ΗΠΑ"
+  },
+  {
+    "name": "Uruguay",
+    "dialCode": "+598",
+    "flagPng": "https://flagcdn.com/w320/uy.png",
+    "name_gr": "Ουρουγουάη"
+  },
+  {
+    "name": "Uzbekistan",
+    "dialCode": "+998",
+    "flagPng": "https://flagcdn.com/w320/uz.png",
+    "name_gr": "Ουζμπεκιστάν"
+  },
+  {
+    "name": "Vanuatu",
+    "dialCode": "+678",
+    "flagPng": "https://flagcdn.com/w320/vu.png",
+    "name_gr": "Βανουάτου"
+  },
+  {
+    "name": "Vatican City",
+    "dialCode": "+3906698",
+    "flagPng": "https://flagcdn.com/w320/va.png",
+    "name_gr": "Βατικανό"
+  },
+  {
+    "name": "Venezuela",
+    "dialCode": "+58",
+    "flagPng": "https://flagcdn.com/w320/ve.png",
+    "name_gr": "Βενεζουέλα"
+  },
+  {
+    "name": "Vietnam",
+    "dialCode": "+84",
+    "flagPng": "https://flagcdn.com/w320/vn.png",
+    "name_gr": "Βιετνάμ"
+  },
+  {
+    "name": "Wallis and Futuna",
+    "dialCode": "+681",
+    "flagPng": "https://flagcdn.com/w320/wf.png",
+    "name_gr": "Ουαλίς και Φουτούνα"
+  },
+  {
+    "name": "Western Sahara",
+    "dialCode": "+2125288",
+    "flagPng": "https://flagcdn.com/w320/eh.png",
+    "name_gr": "Δυτική Σαχάρα"
+  },
+  {
+    "name": "Yemen",
+    "dialCode": "+967",
+    "flagPng": "https://flagcdn.com/w320/ye.png",
+    "name_gr": "Υεμένη"
+  },
+  {
+    "name": "Zambia",
+    "dialCode": "+260",
+    "flagPng": "https://flagcdn.com/w320/zm.png",
+    "name_gr": "Ζάμπια"
+  },
+  {
+    "name": "Zimbabwe",
+    "dialCode": "+263",
+    "flagPng": "https://flagcdn.com/w320/zw.png",
+    "name_gr": "Ζιμπάμπουε"
+  },
+  {
+    "name": "Aland Islands",
+    "dialCode": "+35818",
+    "flagPng": "https://flagcdn.com/w320/ax.png",
+    "name_gr": "Νήσοι Άλαντ"
+  }
+]

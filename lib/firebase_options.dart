@@ -65,4 +65,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'ella-taxiapp.firebasestorage.app',
     iosBundleId: 'com.redpepper.ellaPassenger',
   );
+
 }
